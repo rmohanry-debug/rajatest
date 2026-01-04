@@ -1,3 +1,4 @@
 new test file for github admintest
 test for push
-merging test
+third linegit 
+fourth line git
